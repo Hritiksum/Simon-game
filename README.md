@@ -1,5 +1,5 @@
 ﻿# Simon-game
-Online Simon Game
+Online Simon Game: https://hritiksum.github.io/Simon-game/
 
 ### Tech stack used
 <ul>
